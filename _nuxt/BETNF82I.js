@@ -1,0 +1,1 @@
+import{_ as t}from"./HUdCD60v.js";import{_ as s,c as a,o as n,b as c,a as r,s as _}from"#entry";const l={},d={clas:"px-20 md:px-32 lg:px-48"};function p(e,f){const o=t;return n(),a("div",null,[c(o,{class:"w-full"}),r("div",d,[_(e.$slots,"default")])])}const u=s(l,[["render",p]]);export{u as default};
