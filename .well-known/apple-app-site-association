@@ -5,7 +5,8 @@
             {
                 "appID": "2NDADAVZZ5.com.uniquadev.mangaswift",
                 "paths": [
-                    "/mangaswift/*"
+                    "/mangaswift/*",
+		    "/r/*"
                 ]
             }
         ]
