@@ -1,0 +1,1 @@
+import{_ as s}from"./CKYpKzfW.js";import{_ as a,c as t,o as c,b as n,a as r,I as _}from"#entry";const l={},d={class:"px-20 md:px-32 lg:px-48"};function f(e,p){const o=s;return c(),t("div",null,[n(o,{class:"w-full"}),r("div",d,[_(e.$slots,"default")])])}const u=a(l,[["render",f]]);export{u as default};
